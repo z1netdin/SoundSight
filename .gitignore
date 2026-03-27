@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.update_check
+config.json
+build/
+dist/
+*.spec
+debug_*.py
+*.egg-info/
+.eggs/

@@ -1,0 +1,30 @@
+{
+  "name": "asd",
+  "game": "Valorant",
+  "version": 1,
+  "author": "Shared",
+  "description": "Works with any game. Green wave visualization.",
+  "created": "2026-03-23",
+  "updated": "2026-03-23",
+  "likes": 2,
+  "color": [
+    0,
+    255,
+    140
+  ],
+  "sensitivity": 0.008,
+  "radar_opacity": 0.15,
+  "radar_size": 180,
+  "sound_signatures": {},
+  "icon_mappings": {},
+  "sound_focus": {
+    "footsteps": true,
+    "gunshots": true,
+    "abilities": true,
+    "spike": true,
+    "reload": false,
+    "weapon_drop": false,
+    "movement": true
+  },
+  "dislikes": 1
+}
