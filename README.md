@@ -23,7 +23,17 @@ Game Audio -> WASAPI Loopback Capture -> Directional Analysis -> Screen Overlay
 - Auto-detects 7.1 surround or stereo
 - Thin bar on screen edge grows bigger when enemy is closer
 
-## Setup
+## Download
+
+Download the latest release from [Releases](https://github.com/z1netdin/SoundSight/releases).
+
+Extract the zip and run `SoundSight.exe`.
+
+> **Windows SmartScreen:** You may see "Windows protected your PC" warning.
+> This is normal for unsigned software. Click **"More info"** then **"Run anyway"**.
+> The source code is fully open - you can review it yourself.
+
+## Setup (from source)
 
 ```
 pip install -r requirements.txt
