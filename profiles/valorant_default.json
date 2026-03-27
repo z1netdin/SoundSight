@@ -1,0 +1,29 @@
+{
+  "name": "Default",
+  "game": "Valorant",
+  "version": 1,
+  "author": "SoundSight",
+  "description": "Works with any game. Green wave visualization.",
+  "color": [
+    0,
+    255,
+    140
+  ],
+  "sensitivity": 0.0049999999999999975,
+  "radar_opacity": 0.15,
+  "radar_size": 180,
+  "sound_signatures": {},
+  "icon_mappings": {},
+  "sound_focus": {
+    "footsteps": true,
+    "gunshots": true,
+    "abilities": true,
+    "spike": true,
+    "reload": true,
+    "weapon_drop": true,
+    "movement": true
+  },
+  "likes": -1,
+  "filter_self": true,
+  "updated": "2026-03-24"
+}

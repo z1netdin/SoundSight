@@ -1,0 +1,26 @@
+{
+  "name": "Default",
+  "game": "The Finals",
+  "version": 1,
+  "author": "SoundSight",
+  "description": "Works with any game. Green wave visualization.",
+  "color": [
+    0,
+    255,
+    140
+  ],
+  "sensitivity": 0.008,
+  "radar_opacity": 0.15,
+  "radar_size": 180,
+  "sound_signatures": {},
+  "icon_mappings": {},
+  "sound_focus": {
+    "footsteps": true,
+    "gunshots": true,
+    "abilities": true,
+    "spike": true,
+    "reload": false,
+    "weapon_drop": false,
+    "movement": true
+  }
+}
